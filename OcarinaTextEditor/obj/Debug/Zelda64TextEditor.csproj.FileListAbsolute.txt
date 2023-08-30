@@ -1,0 +1,29 @@
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\App.g.cs
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64 Text Editor_MarkupCompile.cache
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64 Text Editor_MarkupCompile.lref
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64TextEditor.csproj.AssemblyReference.cache
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\SFX_Ocarina.csv
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\SFX_Majora.csv
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\Zelda64 Text Editor.exe.config
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\Zelda64 Text Editor.exe
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\Zelda64 Text Editor.pdb
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\EndianBinaryStreams.dll
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\ZeldaMessage.dll
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\ZeldaMessage.pdb
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\bin\Debug\ZeldaMessage.dll.config
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\MainWindow.baml
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64 Text Editor.g.resources
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64TextEditor.About.resources
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\NPC_Maker.PickableList.resources
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\NPC_Maker.PickableListEntryEdit.resources
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64TextEditor.Properties.Resources.resources
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64TextEditor.csproj.GenerateResource.cache
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64TextEditor.csproj.CopyComplete
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64 Text Editor.exe
+C:\Users\vinte\source\repos\Zelda64-Text-Editor\OcarinaTextEditor\obj\Debug\Zelda64 Text Editor.pdb
